@@ -1,26 +1,125 @@
-<h1 align="center">Hi 👋, I'm Osama Al Gadban</h1>
+<div align="center">
 
-<h3 align="center">
-Flutter Developer | Mobile & Web Applications
-</h3>
+# Hi 👋, I'm Osama Al Gadban
 
-<p align="center">
-Building scalable Flutter applications using <b>Flutter</b>, <b>Clean Architecture</b>, and modern development practices.
+### Flutter Developer • Mobile & Web Applications
+
+Building scalable Flutter applications using **Clean Architecture**, **Bloc**, and modern Flutter development practices.
+
+<p>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_CV_URL">
+<img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge"/>
+</a>
+
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+---
 
-  <a href="YOUR_CV_URL">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/>
-  </a>
-</p>
+# main.dart
+
+```dart
+import 'package:flutter/flutter.dart';
+
+void main() {
+  runApp(const OsamaAlGadban());
+}
+
+class OsamaAlGadban extends FlutterDeveloper
+    with CleanArchitecture, ProblemSolving
+    implements MobileDeveloper {
+
+  const OsamaAlGadban();
+
+  @override
+  final String name = "Osama Al Gadban";
+
+  @override
+  final String role = "Flutter Developer";
+
+  @override
+  final Experience experience = Experience(
+    years: 2,
+    level: "Junior+ / Early Mid-Level",
+  );
+
+  @override
+  final Stack stack = Stack(
+    language: "Dart",
+    framework: "Flutter",
+    stateManagement: "Bloc / Cubit",
+    architecture: "Clean Architecture",
+  );
+
+  @override
+  final Skills skills = Skills(
+
+    mobile: true,
+
+    flutterWeb: true,
+
+    responsiveUI: true,
+
+    restApis: true,
+
+    dio: true,
+
+    firebase: true,
+
+    jwtAuthentication: true,
+
+    paymentGateway: true,
+
+    maps: true,
+
+    localization: true,
+
+    monorepo: true,
+
+    freezed: true,
+
+    getIt: true,
+
+    injectable: true,
+  );
+
+  @override
+  final Projects projects = Projects(
+
+    productionApps: 5,
+
+    mobileAppsPublished: 2,
+
+    webDashboards: 1,
+  );
+
+  @override
+  Future<void> buildSolutions() async {
+
+    writeCleanCode();
+
+    buildReusableWidgets();
+
+    integrateRestApis();
+
+    optimizePerformance();
+
+    publishApplications();
+
+    continueLearning();
+  }
+}
+```
 
 ---
 
@@ -28,78 +127,87 @@ Building scalable Flutter applications using <b>Flutter</b>, <b>Clean Architectu
 
 Flutter Developer with **2+ years of professional experience** building scalable mobile and web applications using **Flutter** and **Dart**.
 
-Throughout my journey, I've worked on **marketplace platforms**, **financial systems**, **service-based applications**, and **Flutter Web dashboards**. I enjoy transforming business requirements into scalable and maintainable software using **Clean Architecture**, **Bloc**, and modern Flutter development practices.
+I've worked on **marketplace platforms**, **financial systems**, **service-based applications**, and **Flutter Web dashboards**. My experience includes **Clean Architecture**, **Bloc/Cubit**, **RESTful API integration**, **JWT authentication**, **Firebase**, **payment gateways**, **maps**, **Monorepo architecture**, and application performance optimization.
 
-My experience includes designing applications with **Monorepo architecture**, integrating **RESTful APIs**, **JWT authentication**, **Firebase services**, **payment gateways**, **maps**, and **localization**.
-
-I'm passionate about writing clean, maintainable code, building reusable components, and continuously improving application quality and performance.
+I enjoy writing clean, maintainable code, building reusable components, and delivering reliable applications that solve real business problems.
 
 ---
 
-# 🚀 What I Do
+# 🚀 Featured Projects
 
-- 📱 Build production-ready Flutter applications
-- 🌐 Develop responsive Flutter Web dashboards
-- 🏗️ Apply Clean Architecture and SOLID principles
-- 🔌 Integrate RESTful APIs using Dio
-- 🔐 Implement secure authentication and token management
-- 💳 Integrate Payment Gateways
-- 📍 Develop location-based features using Maps
-- 🔥 Integrate Firebase services
-- 🚀 Publish applications to Google Play & App Store
+## 🚗 Atlantic Driver
+
+Production-ready automotive service platform.
+
+- Dual Flutter Applications
+- Monorepo Architecture
+- REST API Integration
+- JWT Authentication
+- Firebase Notifications
+- Payment Gateway
+- Maps & Navigation
+- Google Play & App Store
 
 ---
 
-# 🏗️ Architecture & Development
+## 📊 Portia Dashboard
+
+Flutter Web administration dashboard.
+
+- Responsive Flutter Web
+- User Management
+- Reports & Analytics
+- Subscription Management
+- Bloc
+- Freezed
+- Clean Architecture
+
+---
+
+## 💰 Tamkeen Platform
+
+Financial management application.
+
+- Complex Financial Calculations
+- Charts & Analytics
+- REST APIs
+- Slang Localization
+- Bloc
+- Clean Architecture
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma"/>
+
+</p>
+
+### Architecture
 
 - Clean Architecture
 - Repository Pattern
 - SOLID Principles
-- Feature-first Architecture
-- Dependency Injection
-- Bloc / Cubit
-- Freezed
-- GetIt
-- Injectable
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman"/>
-</p>
-
-### Backend Integration
-
-- RESTful APIs
-- Dio
-- HTTP
-- JWT Authentication
-
-### Local Storage
-
-- Shared Preferences
-- Flutter Secure Storage
+- MVVM
 
 ### State Management
 
 - Bloc
 - Cubit
+
+### Backend
+
+- Dio
+- REST APIs
+- JWT Authentication
+- Firebase
+
+### Local Storage
+
+- Shared Preferences
+- Secure Storage
 
 ### Routing
 
@@ -111,61 +219,11 @@ I'm passionate about writing clean, maintainable code, building reusable compone
 - Freezed
 - Json Serializable
 - Build Runner
+- Injectable
 
 ---
 
-# ⭐ Featured Projects
-
-## 🚗 Atlantic Driver
-
-Production automotive service platform connecting customers with service providers.
-
-**Highlights**
-
-- Dual Flutter Applications
-- Monorepo Architecture
-- Shared Packages
-- REST APIs
-- JWT Authentication
-- Payment Gateway Integration
-- Maps & Navigation
-- Firebase Cloud Messaging
-- Google Play & App Store Deployment
-
----
-
-## 📊 Portia Dashboard
-
-Flutter Web administration dashboard.
-
-**Highlights**
-
-- Responsive Flutter Web
-- User Management
-- Reports & Analytics
-- Subscription Management
-- Clean Architecture
-- Bloc
-- Freezed
-
----
-
-## 💰 Tamkeen Platform
-
-Financial installment management system.
-
-**Highlights**
-
-- Complex Financial Calculations
-- REST API Integration
-- Charts & Analytics
-- Localization using Slang
-- Clean Architecture
-- Bloc State Management
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -177,7 +235,7 @@ Financial installment management system.
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -197,39 +255,72 @@ Financial installment management system.
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Current Focus
 
-- Flutter Testing
-- CI/CD
-- Advanced Design Patterns
-- Performance Optimization
-- Technical English
-- Open Source Contribution
+```yaml
+current_focus:
+
+  - Flutter Testing
+
+  - CI/CD
+
+  - Advanced Design Patterns
+
+  - Performance Optimization
+
+  - Open Source
+
+  - Technical English
+```
+
+---
+
+# ☕ Fun Facts
+
+```yaml
+favorite_framework: Flutter
+
+favorite_architecture: Clean Architecture
+
+favorite_state_management: Bloc
+
+code_style: Clean & Maintainable
+
+always_learning: true
+
+coffee_required: true
+```
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on Flutter projects, discussing software architecture, or connecting with fellow developers.
-
-<p>
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-<i>"Building software is not just writing code — it's designing maintainable solutions that solve real business problems."</i>
-</p>
+<div align="center">
+
+### "Building software is not just writing code — it's designing maintainable solutions that solve real business problems."
+
+</div>
