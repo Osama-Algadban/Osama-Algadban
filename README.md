@@ -7,16 +7,19 @@
 Building scalable mobile and web applications with Flutter using Clean Architecture and modern software engineering practices.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p> 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
+
 
 ---
 
@@ -24,21 +27,24 @@ Building scalable mobile and web applications with Flutter using Clean Architect
 
 Flutter Developer with **2+ years of professional experience** building scalable mobile and web applications using **Flutter** and **Dart**.
 
-I've worked on **marketplace platforms**, **financial systems**, **service-based applications**, and **Flutter Web dashboards**.
+I have worked on **marketplace platforms**, **financial systems**, **service-based applications**, and **Flutter Web dashboards**.
 
-My experience includes **Clean Architecture**, **Bloc**, **RESTful APIs**, **JWT Authentication**, **Firebase**, **Payment Integration**, **Maps**, and **Monorepo Architecture**.
+My experience includes **Clean Architecture**, **Bloc**, **REST API integration**, **JWT Authentication**, **Firebase Services**, **Payment Integration**, **Maps**, and **Monorepo Architecture**.
 
-I enjoy building maintainable software, writing clean code, and continuously improving application performance and user experience.
+I focus on building maintainable software, creating reusable components, optimizing application performance, and delivering reliable solutions that solve real business problems.
+
 
 ---
 
 # 🛠 Technical Skills
+
 
 <table>
 
 <tr>
 
 <td valign="top" width="33%">
+
 
 ## 📱 Languages & Frameworks
 
@@ -56,10 +62,12 @@ Dart • Flutter • Flutter Web
 
 </p>
 
+
 </td>
 
 
 <td valign="top" width="33%">
+
 
 ## ⚙️ State Management
 
@@ -71,15 +79,18 @@ Bloc
 
 <p align="center">
 
-Predictable State Management  
+Predictable State Management
+
 Reactive Application Architecture
 
 </p>
+
 
 </td>
 
 
 <td valign="top" width="33%">
+
 
 ## 🌐 Backend Integration
 
@@ -95,7 +106,9 @@ REST APIs • JWT Authentication
 
 </p>
 
+
 </td>
+
 
 </tr>
 
@@ -109,7 +122,9 @@ REST APIs • JWT Authentication
 
 <tr>
 
+
 <td valign="top" width="33%">
+
 
 ## 🏗 Architecture
 
@@ -125,10 +140,13 @@ REST APIs • JWT Authentication
 
 - Feature-first Structure
 
+
 </td>
 
 
+
 <td valign="top" width="33%">
+
 
 ## 🔥 Firebase & Services
 
@@ -142,10 +160,13 @@ REST APIs • JWT Authentication
 
 - Maps & Location Services
 
+
 </td>
 
 
+
 <td valign="top" width="33%">
+
 
 ## 💾 Storage & Localization
 
@@ -159,7 +180,9 @@ REST APIs • JWT Authentication
 
 - JSON Serialization
 
+
 </td>
+
 
 </tr>
 
@@ -173,7 +196,9 @@ REST APIs • JWT Authentication
 
 <tr>
 
+
 <td valign="top" width="50%">
+
 
 ## 🧰 Libraries & Packages
 
@@ -191,12 +216,16 @@ REST APIs • JWT Authentication
 
 - Build Runner
 
+
 </td>
+
 
 
 <td valign="top" width="50%">
 
+
 ## 🛠 Tools
+
 
 <p align="center">
 
@@ -214,91 +243,129 @@ REST APIs • JWT Authentication
 
 </p>
 
+
 </td>
+
 
 </tr>
 
 </table>
 
+
 ---
 
 # ⭐ Featured Projects
 
-### 🚗 Atlantic Driver
+
+## 🚗 Atlantic Driver
+
+A dual Flutter application ecosystem connecting customers with automotive service providers.
+
+**Highlights:**
 
 - Monorepo Architecture
-- Customer & Provider Apps
-- REST APIs
-- Payment Gateway
+
+- Customer & Provider Applications
+
+- Shared Core Packages
+
+- REST API Integration
+
+- JWT Authentication
+
+- Payment Gateway Integration
+
 - Firebase Notifications
-- Google Maps
-- Google Play & App Store
+
+- Maps & Location Services
+
+- Published on Google Play & App Store
+
 
 ---
 
-### 📊 Portia Dashboard
 
-- Flutter Web
-- Responsive Design
+## 📊 Portia Dashboard
+
+Flutter Web administration dashboard for managing platform operations.
+
+**Highlights:**
+
+- Responsive Flutter Web Application
+
 - Clean Architecture
-- Bloc
+
+- Bloc State Management
+
+- User Management
+
+- Subscription Management
+
 - Reports & Analytics
 
+
 ---
 
-### 💰 Tamkeen Platform
 
-- Financial System
+## 💰 Tamkeen Platform
+
+Financial management application for installment-based businesses.
+
+**Highlights:**
+
+- Complex Financial Calculations
+
 - Charts & Analytics
-- Complex Business Logic
-- REST APIs
-- Slang Localization
+
+- REST API Integration
+
+- Clean Architecture
+
+- Localization with Slang
+
+- Business-focused Features
+
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
+# 💡 Engineering Focus
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+| Area | Experience |
+|---|---|
+| Mobile Development | Flutter & Dart |
+| Web Development | Flutter Web |
+| Architecture | Clean Architecture, Repository Pattern |
+| State Management | Bloc |
+| API Integration | REST APIs, Dio, JWT |
+| Backend Services | Firebase, Notifications |
+| Storage | Shared Preferences, Secure Storage |
+| Workflow | Git, Agile, Jira |
+| Performance | Lazy Loading, Pagination, Caching |
 
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🎯 Currently Learning
 
 - Flutter Testing
+
 - CI/CD
+
 - Advanced Design Patterns
+
 - Open Source Contribution
+
 - Technical English
+
 
 ---
 
+
 # 🤝 Connect With Me
+
 
 <p align="center">
 
@@ -308,13 +375,16 @@ REST APIs • JWT Authentication
 
 </a>
 
+
 <a href="mailto:YOUR_EMAIL">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
+
 </p>
+
 
 ---
 
