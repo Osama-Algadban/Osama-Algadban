@@ -8,15 +8,15 @@ Building scalable mobile and web applications with Flutter using Clean Architect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/osama-al-ghadban">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:contact@osamaalgadban.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_CV_LINK">
+<a href="https://drive.google.com/file/d/122xZqm-6rcjpHoyXieuHqO99Zb1MMDpp/view">
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -372,21 +372,21 @@ Financial management application for installment-based businesses.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/osama-al-ghadban">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:contact@osamaalgadban.com" target="_blank">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 
 </a>
 
 
-<a href="YOUR_CV_LINK">
+<a href="https://drive.google.com/file/d/122xZqm-6rcjpHoyXieuHqO99Zb1MMDpp/view">
 
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs"/>
 
