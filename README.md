@@ -65,13 +65,14 @@ Dart • Flutter • Flutter Web
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logos/bloc.png" width="45"/>
+Bloc
 
 </p>
 
 <p align="center">
 
-Bloc • Cubit
+Predictable State Management  
+Reactive Application Architecture
 
 </p>
 
