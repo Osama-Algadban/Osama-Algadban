@@ -6,14 +6,15 @@
 
 Building scalable mobile and web applications with Flutter using Clean Architecture and modern software engineering practices.
 
-<p>
+<p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> 
 
 </div>
 
@@ -25,13 +26,13 @@ Flutter Developer with **2+ years of professional experience** building scalable
 
 I've worked on **marketplace platforms**, **financial systems**, **service-based applications**, and **Flutter Web dashboards**.
 
-My experience includes **Clean Architecture**, **Bloc/Cubit**, **RESTful APIs**, **JWT Authentication**, **Firebase**, **Payment Integration**, **Maps**, and **Monorepo Architecture**.
+My experience includes **Clean Architecture**, **Bloc**, **RESTful APIs**, **JWT Authentication**, **Firebase**, **Payment Integration**, **Maps**, and **Monorepo Architecture**.
 
 I enjoy building maintainable software, writing clean code, and continuously improving application performance and user experience.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Technical Skills
 
 <table>
 
@@ -39,19 +40,24 @@ I enjoy building maintainable software, writing clean code, and continuously imp
 
 <td valign="top" width="33%">
 
-## 📱 Mobile
+## 📱 Languages & Frameworks
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter" width="45"/>
-
 <img src="https://skillicons.dev/icons?i=dart" width="45"/>
 
-<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="45"/>
+
+</p>
+
+<p align="center">
+
+Dart • Flutter • Flutter Web
 
 </p>
 
 </td>
+
 
 <td valign="top" width="33%">
 
@@ -60,8 +66,6 @@ I enjoy building maintainable software, writing clean code, and continuously imp
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logos/bloc.png" width="45"/>
-
-<img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/provider.png" width="45"/>
 
 </p>
 
@@ -73,19 +77,20 @@ Bloc • Cubit
 
 </td>
 
+
 <td valign="top" width="33%">
 
-## 🌐 Networking
+## 🌐 Backend Integration
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+Dio • HTTP
 
 </p>
 
 <p align="center">
 
-Dio • REST API • JWT
+REST APIs • JWT Authentication
 
 </p>
 
@@ -95,7 +100,9 @@ Dio • REST API • JWT
 
 </table>
 
----
+
+<br>
+
 
 <table>
 
@@ -109,21 +116,69 @@ Dio • REST API • JWT
 
 - Repository Pattern
 
-- SOLID
+- SOLID Principles
 
 - MVVM
 
 - Monorepo
 
+- Feature-first Structure
+
 </td>
+
 
 <td valign="top" width="33%">
 
-## 🧰 Libraries
+## 🔥 Firebase & Services
 
-- Bloc
+- Firebase Authentication
+
+- Firebase Cloud Messaging
+
+- Push Notifications
+
+- Payment Gateway Integration
+
+- Maps & Location Services
+
+</td>
+
+
+<td valign="top" width="33%">
+
+## 💾 Storage & Localization
+
+- Shared Preferences
+
+- Secure Storage
+
+- Localization
+
+- Slang
+
+- JSON Serialization
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+## 🧰 Libraries & Packages
 
 - Freezed
+
+- Json Serializable
 
 - GetIt
 
@@ -133,11 +188,12 @@ Dio • REST API • JWT
 
 - GoRouter
 
-- Dio
+- Build Runner
 
 </td>
 
-<td valign="top" width="33%">
+
+<td valign="top" width="50%">
 
 ## 🛠 Tools
 
@@ -152,6 +208,8 @@ Dio • REST API • JWT
 <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
 
 <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/>
+
+<img src="https://skillicons.dev/icons?i=postman" width="40"/>
 
 </p>
 
