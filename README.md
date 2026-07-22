@@ -16,7 +16,7 @@ Building scalable mobile and web applications with Flutter using Clean Architect
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/122xZqm-6rcjpHoyXieuHqO99Zb1MMDpp/view">
+<a href="https://drive.google.com/file/d/1eFicH3huxoL0NLsP7zxBSljqqTLaJ0z4/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -417,7 +417,7 @@ Marketplace application for buying and selling used products, developed as part 
 </a>
 
 
-<a href="https://drive.google.com/file/d/122xZqm-6rcjpHoyXieuHqO99Zb1MMDpp/view">
+<a href="https://drive.google.com/file/d/1eFicH3huxoL0NLsP7zxBSljqqTLaJ0z4/view?usp=sharing">
 
 <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs"/>
 
