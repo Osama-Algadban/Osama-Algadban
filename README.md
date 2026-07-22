@@ -291,6 +291,10 @@ A dual Flutter application ecosystem connecting customers with automotive servic
 
 ## 📊 Portia Dashboard
 
+<a href="https://portia.pro" target="_blank">
+  <img src="https://img.shields.io/badge/Portia.pro-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 Flutter Web administration dashboard for managing platform operations.
 
 **Highlights:**
@@ -332,6 +336,33 @@ Financial management application for installment-based businesses.
 
 ---
 
+---
+
+## 🛍️ Bazaar Marketplace
+
+<a href="https://play.google.com/store/apps/details?id=com.team4sy.bazaar" target="_blank">
+  <img src="https://img.shields.io/badge/Bazaar--sy-Visit-0F766E?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+Marketplace application for buying and selling used products, developed as part of a cross-functional team.
+
+**Highlights:**
+
+- Complete Flutter UI Development
+
+- Clean Architecture
+
+- Responsive UI for Mobile Devices
+
+- Reusable Widgets & Components
+
+- Marketplace User Experience
+
+- Team Collaboration using Agile
+
+- Production-ready Application
+
+---
 
 # 💡 Engineering Focus
 
